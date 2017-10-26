@@ -1,0 +1,9 @@
+{
+	"generic-error": "Something went wrong.",
+	"enabled": "enabled",
+	"disabled": "disabled",
+	"actionlog": {
+		"toggle-success": "Action Log {{status}} in {{channel}}.",
+		"error-nochannel": "Please enter a valid channel."
+	}
+}
